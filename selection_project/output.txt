@@ -1,0 +1,1 @@
+Number of Pipes in the given image = 98
